@@ -30,3 +30,8 @@ If you're also working through the 30 Days of Pandas challenge or have feedback 
 
 Happy Learning! 🎉
 
+---
+
+<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | 30 Days of Pandas Repository</p>
+
+

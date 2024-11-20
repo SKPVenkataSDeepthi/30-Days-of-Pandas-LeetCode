@@ -1,6 +1,7 @@
 # 30 Days of Pandas 🐼
 
 Welcome to my **30 Days of Pandas** journey! 🚀  
+
 This repository contains my daily learnings, insights, and solutions to the challenges I complete as part of the LeetCode **30 Days of Pandas** program. 
 
 ---
@@ -23,7 +24,9 @@ LeetCode's **30 Days of Pandas** is a focused challenge to strengthen data manip
 
 🚀 Let's Connect!
 If you're also working through the 30 Days of Pandas challenge or have feedback on my solutions, feel free to connect:
+
 📧 Email: sri1999deepthi@gmail.com
+
 💻 LinkedIn: https://www.linkedin.com/in/dvskp/
 
 ---
